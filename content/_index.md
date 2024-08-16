@@ -10,7 +10,7 @@ chapter : false
 
 In this workshop, we will provide step-by-step instructions for deploying a ReactJS Application into AWS Infrastructure, specifically Elastic Container Service (ECS). However, we will not interact with the Console Management since we have to manage too many resources ourselves. Infrastructure as Code (IaC) provides us the ability to provision the infrastructure without manual operation. IaC improves productivity in the process of problem-addressing and troubleshooting since the configuration is well-defined. In this workshop, we will Terraform to deploy our AWS Infrastructure.
 
-![ConnectPrivate](/images/arc-log.png) 
+![image](/images/arc-log.png) 
 
 ### Expectation
 
