@@ -6,7 +6,6 @@ chapter : false
 pre : " <b> 2.2 </b> "
 ---
 
-Trong bước này, chúng ta sẽ cần tạo hoàn chỉnh kiến trúc hạ tầng với Load Balancer, Auto Scaling Group, và ECS Cluster
 
 In this section, we will create the entire AWS Infratructure with Load Balancer, Auto Scaling Group, and ECS Cluster.
 
