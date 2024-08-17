@@ -31,4 +31,4 @@ Login to Console Management and check the resources:
 
 #### Security Group for Bastion Host
 
-![ConnectPrivate](/images/2.prerequisite/2BastionSG.png)
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2BastionSG.png)

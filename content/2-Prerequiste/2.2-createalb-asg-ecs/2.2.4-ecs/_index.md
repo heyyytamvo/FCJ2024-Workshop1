@@ -24,7 +24,7 @@ The name of the ECS Cluster is the variable `var.ecs_cluster_name`. Follow this 
 
 ### Create Task Definition
 
-Next, we will create Task Definition. Inn **ecs.tf**, adding the configuration as below:
+Next, we will create Task Definition. In **ecs.tf**, adding the configuration as below:
 
 ```tf
 resource "aws_ecs_task_definition" "my_ECS_TD" {
@@ -58,7 +58,7 @@ So, we solved the problem of allocating computing resources.
 
 ### Create ECS Service
 
-Next, we will crete ECS Service (Service will be responsible for Task). But first, we need to create IAM Role for Service to allow them interacting with EC2 Cluster and Load Balancer. In **iamrole.tf**, adding the configuration as below:
+Next, we will crete ECS Service (Service will be responsible for launching task). But first, we need to create IAM Role for Service to allow them interacting with EC2 Cluster and Load Balancer. In **iamrole.tf**, adding the configuration as below:
 
 ```tf
 # iamrole.tf
@@ -150,7 +150,7 @@ With the above configuration, we have:
 - IAM Role for ECS Service
 - Task Definition in ECS Service
 - Task (Container(s)) will be launched into EC2 Cluster and registered into the Target Group. So, Load Balancer can forward traffic to them.
-- Task will be distributed across Availability Zone to ensure the High Availability
+- Task will be distributed across Availability Zones to ensure the High Availability
 - In case of increasing the number of desired task, ECS Service guarantees using all available space on the EC2 Cluster.
 
 
