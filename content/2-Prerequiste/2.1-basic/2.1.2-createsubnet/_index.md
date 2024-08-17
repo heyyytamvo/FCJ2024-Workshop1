@@ -6,7 +6,7 @@ chapter : false
 pre : " <b> 2.1.2 </b> "
 ---
 
-#### Tạo Public và Private subnet
+#### Create Public and Private subnet
 
 Create **subnet.tf** with the configuration below:
 
