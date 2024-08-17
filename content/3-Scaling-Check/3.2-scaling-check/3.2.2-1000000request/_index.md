@@ -16,7 +16,7 @@ After receiving 100.000 requests, ASG has launched a new EC2 Instance as below.
 ![ConnectPrivate](/FCJ2024-Workshop1/images/3.connect/3.2.2/1_Scaling.png)
 
 
-We can see that there are 3 registerd EC2 Cluster instead of 2.
+We can see that there are 3 registered EC2 Cluster instead of 2.
 
 ![ConnectPrivate](/FCJ2024-Workshop1/images/3.connect/3.2.2/2_Scaling.png)
 
