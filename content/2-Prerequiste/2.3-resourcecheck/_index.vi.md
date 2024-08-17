@@ -23,15 +23,15 @@ terraform apply
 
 #### Load Balancer
 
-![ConnectPrivate](/images/2.prerequisite/2.3/0_ALB.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2.3/0_ALB.png) 
 #### Target Group
 
 Đây chính là 2 container được khởi chạy trong 2 EC2 Cluster. 2 Container này sẽ đợi traffic từ port 32768 trên EC2 Cluster tương ứng.
 
-![ConnectPrivate](/images/2.prerequisite/2.3/1_TG_GR.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2.3/1_TG_GR.png) 
 
 #### ECS Cluster
-![ConnectPrivate](/images/2.prerequisite/2.3/2_ECS_Cluster.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2.3/2_ECS_Cluster.png) 
 
 #### Truy cập Application thông qua Load Balancer DNS
-![ConnectPrivate](/images/2.prerequisite/2.3/3_App.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2.3/3_App.png) 

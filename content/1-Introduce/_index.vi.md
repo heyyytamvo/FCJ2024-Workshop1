@@ -10,7 +10,7 @@ Việc containerize một ứng dụng và triển khai nó lên một server du
 - Làm thế nào để server xử lý một lượng lớn requests từ end-users?
 - Việc cấp phát tài nguyên cho từng container sẽ bị bỏ qua: đặt trường hợp có 2 container A và B trên cùng một server, tuy nhiên end-user sẽ truy cập container A với tần suất gấp nhiều lần so với container B. Từ đó, ta cần cấp phát tài nguyên cho A và giảm tài nguyên cho B
 
-![ConnectPrivate](/images/1.Intro/00problem.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/1.Intro/00problem.png) 
 
 Trong bài Workshop này, chúng ta sẽ tận dụng các dịch vụ từ AWS để giải quyết bài toán trên:
 

@@ -156,4 +156,4 @@ With the above configuration, we have:
 
 Now, we have a completed AWS Infrastructure.
 
-![ConnectPrivate](/images/arc-log.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/arc-log.png) 

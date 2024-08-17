@@ -10,7 +10,7 @@ chapter : false
 
 Trong bài Workshop này, bạn đọc sẽ tìm hiểu cách thức deploy một ứng dụng ReactJS lên hạ tầng AWS, cụ thể ở đây là AWS Elastic Container Service. Tuy nhiên, bạn đọc sẽ không tương tác với AWS Console để triển khai hạ tầng, lý do là bởi có quá nhiều tài nguyên để phải quản lý. Việc thao tác trên Console sẽ rất lâu (ảnh hưởng đến hiệu suất) và sau này việc troubleshoot sẽ rất khó khăn khi chúng ta sẽ không biết bắt đầu từ đâu. Thế là Infrastructure as Code (IaC) ra đời để giúp ta có thể quản lý tài nguyên bằng những file cấu hình, từ đó giúp việc triển khai hạ tầng trên bất cứ nhà cung cấp dịch vụ nào sẽ trở nên khoa học hơn khi chúng ta chỉ cần nhìn vào những file cấu hình để hiểu toàn bộ hạ tầng. Trong bài Workshop này, Terraform sẽ là lựa chọn của ta.
 
-![ConnectPrivate](/images/arc-log.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/arc-log.png) 
 
 ### Kỳ vọng
 

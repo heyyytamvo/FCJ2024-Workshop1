@@ -15,5 +15,5 @@ terraform destroy
 
 Tất cả các tài nguyên sẽ được tự động dọn dẹp như hình bên dưới:
 
-![ConnectPrivate](/images/4.cleanup/cleanup.png)
+![ConnectPrivate](/FCJ2024-Workshop1/images/4.cleanup/cleanup.png)
 

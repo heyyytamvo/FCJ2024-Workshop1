@@ -10,7 +10,7 @@ Containerizing an application and deploying it into a server seems to solve the 
 - How does the server handle hundreds or millions of incoming requests?
 - Suppose there are 2 Services (A and B) operating on the same server. End-users tend to access Service A more than they do on Service B. So we need to provide computing resources for Service A to avoid any heavy workload.
 
-![ConnectPrivate](/images/1.Intro/00problem.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/1.Intro/00problem.png) 
 
 In this workshop, we will use these services from AWS to solve the problem above:
 

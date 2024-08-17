@@ -23,11 +23,11 @@ Login to Console Management and check the resources:
 
 #### VPC, Internet Gateway, NAT Gateway, and Route Table
 
-![ConnectPrivate](/images/2.prerequisite/0Overview.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/0Overview.png) 
 
 #### Bastion Host
 
-![ConnectPrivate](/images/2.prerequisite/1Bastion.png)
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/1Bastion.png)
 
 #### Security Group for Bastion Host
 

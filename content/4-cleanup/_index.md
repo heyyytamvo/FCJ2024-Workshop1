@@ -15,5 +15,5 @@ terraform destroy
 
 Now, all resources will be removed as below:
 
-![ConnectPrivate](/images/4.cleanup/cleanup.png)
+![ConnectPrivate](/FCJ2024-Workshop1/images/4.cleanup/cleanup.png)
 

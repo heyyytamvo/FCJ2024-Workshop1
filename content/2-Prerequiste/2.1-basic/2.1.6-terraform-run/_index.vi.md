@@ -23,12 +23,12 @@ terraform apply
 
 #### VPC, Internet Gateway, NAT Gateway, và Route Table
 
-![ConnectPrivate](/images/2.prerequisite/0Overview.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/0Overview.png) 
 
 #### Bastion Host
 
-![ConnectPrivate](/images/2.prerequisite/1Bastion.png)
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/1Bastion.png)
 
 #### Security Group cho Bastion Host
 
-![ConnectPrivate](/images/2.prerequisite/2BastionSG.png)
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2BastionSG.png)

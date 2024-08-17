@@ -23,13 +23,13 @@ Login to Console Management and check the resources:
 
 #### Load Balancer
 
-![ConnectPrivate](/images/2.prerequisite/2.3/0_ALB.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2.3/0_ALB.png) 
 #### Target Group
 
-![ConnectPrivate](/images/2.prerequisite/2.3/1_TG_GR.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2.3/1_TG_GR.png) 
 
 #### ECS Cluster
-![ConnectPrivate](/images/2.prerequisite/2.3/2_ECS_Cluster.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2.3/2_ECS_Cluster.png) 
 
 #### Access Application via Load Balancer DNS
-![ConnectPrivate](/images/2.prerequisite/2.3/3_App.png) 
+![ConnectPrivate](/FCJ2024-Workshop1/images/2.prerequisite/2.3/3_App.png) 
