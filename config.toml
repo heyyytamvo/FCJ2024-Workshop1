@@ -29,7 +29,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj/"
 weight = 20
 
 [Languages.vi]
-title = "AWS System Manager"
+title = "Triển khai ECS Cluster với Terraform"
 weight = 2
 languageName = "Tiếng Việt"
 
